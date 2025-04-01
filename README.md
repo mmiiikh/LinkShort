@@ -40,13 +40,27 @@ models - таблица с юзерами
 
 О результатах работы:
 Вид результирующей документации: 
+
 <img width="1512" alt="Снимок экрана 2025-04-02 в 00 01 31" src="https://github.com/user-attachments/assets/f9cbc0ef-0bed-4ef1-b1e4-8adf7dff54ae" />
 
 Вид базы данных:
+
 <img width="518" alt="Снимок экрана 2025-04-02 в 00 03 17" src="https://github.com/user-attachments/assets/e28ef95b-ae99-4a0c-ba55-8e1a152a41b6" />
 
 Теперь покажу, как отрабатывают основные ручки (легче показать на видео): https://disk.yandex.ru/i/jxAn1u-VJseBkg
-Ручки shorten и get {short_code} отрабатывают так, как и ожидалось! :) 
+
+Ручки shorten и get {short_code} отрабатывают так, как и ожидалось! :) Дайте пожалуйста знать, если вдруг доступ к видео будет отсутствовать: тг mmikhlv
+
+
+Без регистрации сервис выдает следующие ответы:
+
+<img width="1512" alt="Снимок экрана 2025-04-02 в 00 11 59" src="https://github.com/user-attachments/assets/36f011ff-557c-401b-b4c0-379252abc5a5" />
+
+<img width="1512" alt="Снимок экрана 2025-04-02 в 00 11 52" src="https://github.com/user-attachments/assets/ccbd24db-c408-44e3-b54b-8730e81085e9" />
+
+
+
+
 
 
 
